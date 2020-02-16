@@ -67,7 +67,7 @@ docker run -p 3000:3000 --env DATABASE_URI="mongodb://YOUR_MONGO_INSTALLATION_EN
 
 Deploy with button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tiledesk/tiledesk-server)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dezzyboy/tiledesk-server)
 
 
 # REST API
